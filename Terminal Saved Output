@@ -104,16 +104,14 @@ Ryans-MacBook-Air:unlocker ryanbarnard$     cardidentifier <<= 8; cardidentifier
 > 
 >  
 >     if (cardidentifier == 606061173) {
->       Keyboard.write('m');
->       Keyboard.write('y');
->        Keyboard.write('p');
->         Keyboard.write('a');
->          Keyboard.write('s');
->           Keyboard.write('s');
->            Keyboard.write('w');
->             Keyboard.write('o');
->              Keyboard.write('r');
->               Keyboard.write('d');
+>       Keyboard.write('N');
+>       Keyboard.write('a');
+>        Keyboard.write('t');
+>         Keyboard.write('e');
+>          Keyboard.write('0');
+>           Keyboard.write('1');
+>            Keyboard.write('4');
+>             Keyboard.write('3');
 >               delay(5000); //makes sure the password isn't repeated
 >     }
 >   }
